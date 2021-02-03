@@ -1,0 +1,2 @@
+# rails-sentry
+Test Sentry
